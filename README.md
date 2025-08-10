@@ -17,10 +17,17 @@ Sistem ini adalah prototipe doorlock otomatis berbasis Arduino yang menggunakan 
 - Relay: IN ke pin 6 Arduino
 - LCD I2C: SDA ke A4, SCL ke A5 (default Arduino Uno)
 
-Lihat gambar wiring berikut untuk referensi visual:
-- Wiring Doorlock Qrcode.png
-- Gambar Tampak Dalam.png
-- Gambar Tampak Depan.png
+
+#### Gambar Wiring dan Fisik
+
+<p align="center">
+   <img src="Wiring Doorlock Qrcode.png" alt="Wiring Diagram" width="500"/>
+</p>
+
+<p align="center">
+   <img src="Gambar Tampak Dalam.png" alt="Tampak Dalam" width="350"/>
+   <img src="Gambar Tampak Depan.png" alt="Tampak Depan" width="350"/>
+</p>
 
 ---
 
